@@ -1,5 +1,4 @@
-### :smile: Welcome to my GitHub
+### :smile: Welcome to my GitHub!
 
-##### :computer: computer science
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=dnjsgkfka)](https://github.com/marshallku/gitgarden)
 
-##### :school_satchel: C, C++, Python, Java
