@@ -1,4 +1,9 @@
 ### :smile: Welcome to my GitHub!
 
-[![GitGarden](https://gitgarden.marshallku.dev/?user_name=dnjsgkfka)](https://github.com/marshallku/gitgarden)
-
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dnjsgkfka&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/dnjsgkfka"
+  width="600"
+  height="300"
+/>
+</a>
